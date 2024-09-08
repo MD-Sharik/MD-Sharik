@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD SHARIK</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-sharik&label=Profile%20views&color=0e75b6&style=flat" alt="md-sharik" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **md.sharik5012@gmail.com**
 
-- ⚡ Fun fact **I love Gaming**
+- ⚡ Hobby **Building Scalabale Web-Apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
