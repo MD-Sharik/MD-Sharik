@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at: Pizeonfly<br>👯 I’m looking to collaborate on: Machine Learning<br>🌱 I’m currently learning: AI/ML<br>💬 Ask me about: Technologies
+🔭 I’m currently working at: PC Solution<br>👯 I’m looking to collaborate on: Machine Learning<br>🌱 I’m currently learning: AI/ML<br>💬 Ask me about: Technologies
 
 
 ## 🌐 Socials:
